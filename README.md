@@ -4,8 +4,8 @@
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using SQL. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
 
 ## 15 practice questions
-Retrieve the names of all tracks that have more than 1 billion streams.
-List all albums along with their respective artists.
+1) Retrieve the names of all tracks that have more than 1 billion streams.
+@) List all albums along with their respective artists.
 Get the total number of comments for tracks where licensed = TRUE.
 Find all tracks that belong to the album type single.
 Count the total number of tracks by each artist.
